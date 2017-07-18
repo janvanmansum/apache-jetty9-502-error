@@ -128,4 +128,4 @@ $ ./client.sh acceptAll data/1000000.bin
 Response status = HTTP/1.1 502 Bad Gateway
 ```
 
-When I repeat the above for Jetty 8 there was *no* error.
+When I repeated the above for Jetty 8 there was *no* error.
